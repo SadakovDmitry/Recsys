@@ -1,0 +1,7 @@
+{
+  "repository": "https://github.com/girafe-ai/recsys/tree/26s-msai",
+  "commit": "38bb9fdfa190676d21a4fb68f50d721521ae59b7",
+  "checked_seminar_text_files": 47,
+  "online_retail_mentions": [],
+  "scope": "Notebook sources and text/code files in seminar folders, not cell outputs or unpublished material."
+}

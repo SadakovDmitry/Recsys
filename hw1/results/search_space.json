@@ -1,0 +1,137 @@
+{
+  "seed": 42,
+  "primary_metric": "NDCG@10",
+  "configurations": {
+    "ItemKNN": [
+      {
+        "neighbors": 40,
+        "shrink": 10.0
+      },
+      {
+        "neighbors": 40,
+        "shrink": 100.0
+      },
+      {
+        "neighbors": 100,
+        "shrink": 10.0
+      },
+      {
+        "neighbors": 100,
+        "shrink": 100.0
+      }
+    ],
+    "iALS": [
+      {
+        "factors": 32,
+        "regularization": 1.0,
+        "alpha": 20.0,
+        "iterations": 10,
+        "seed": 42
+      },
+      {
+        "factors": 32,
+        "regularization": 10.0,
+        "alpha": 20.0,
+        "iterations": 10,
+        "seed": 42
+      },
+      {
+        "factors": 64,
+        "regularization": 1.0,
+        "alpha": 20.0,
+        "iterations": 10,
+        "seed": 42
+      },
+      {
+        "factors": 64,
+        "regularization": 10.0,
+        "alpha": 20.0,
+        "iterations": 10,
+        "seed": 42
+      }
+    ],
+    "EASE": [
+      {
+        "regularization": 100.0
+      },
+      {
+        "regularization": 500.0
+      },
+      {
+        "regularization": 1000.0
+      }
+    ],
+    "FM": [
+      {
+        "factors": 16,
+        "epochs": 6,
+        "learning_rate": 0.01,
+        "regularization": 1e-05,
+        "negatives": 3,
+        "batch_size": 8192,
+        "seed": 42,
+        "metadata": true
+      },
+      {
+        "factors": 16,
+        "epochs": 12,
+        "learning_rate": 0.01,
+        "regularization": 1e-05,
+        "negatives": 3,
+        "batch_size": 8192,
+        "seed": 42,
+        "metadata": true
+      },
+      {
+        "factors": 32,
+        "epochs": 6,
+        "learning_rate": 0.01,
+        "regularization": 1e-05,
+        "negatives": 3,
+        "batch_size": 8192,
+        "seed": 42,
+        "metadata": true
+      },
+      {
+        "factors": 32,
+        "epochs": 12,
+        "learning_rate": 0.01,
+        "regularization": 1e-05,
+        "negatives": 3,
+        "batch_size": 8192,
+        "seed": 42,
+        "metadata": true
+      }
+    ],
+    "CustomALS": [
+      {
+        "factors": 32,
+        "regularization": 1.0,
+        "alpha": 20.0,
+        "iterations": 10,
+        "seed": 42
+      },
+      {
+        "factors": 32,
+        "regularization": 10.0,
+        "alpha": 20.0,
+        "iterations": 10,
+        "seed": 42
+      },
+      {
+        "factors": 64,
+        "regularization": 1.0,
+        "alpha": 20.0,
+        "iterations": 10,
+        "seed": 42
+      },
+      {
+        "factors": 64,
+        "regularization": 10.0,
+        "alpha": 20.0,
+        "iterations": 10,
+        "seed": 42
+      }
+    ]
+  }
+}

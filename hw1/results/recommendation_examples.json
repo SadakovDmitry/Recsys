@@ -1,0 +1,1304 @@
+{
+  "ItemKNN:12347": [
+    {
+      "rank": 1,
+      "stock_code": "23245",
+      "title": "SET OF 3 REGENCY CAKE TINS",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 2,
+      "stock_code": "21212",
+      "title": "PACK OF 72 RETROSPOT CAKE CASES",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 3,
+      "stock_code": "21977",
+      "title": "PACK OF 60 PINK PAISLEY CAKE CASES",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 4,
+      "stock_code": "22730",
+      "title": "ALARM CLOCK BAKELIKE IVORY",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 5,
+      "stock_code": "23307",
+      "title": "SET OF 60 PANTRY DESIGN CAKE CASES",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 6,
+      "stock_code": "22961",
+      "title": "JAM MAKING SET PRINTED",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 7,
+      "stock_code": "84378",
+      "title": "SET OF 3 HEART COOKIE CUTTERS",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 8,
+      "stock_code": "47566",
+      "title": "PARTY BUNTING",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 9,
+      "stock_code": "22960",
+      "title": "JAM MAKING SET WITH JARS",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 10,
+      "stock_code": "23163",
+      "title": "REGENCY SUGAR TONGS",
+      "relevant_in_test": false
+    }
+  ],
+  "ItemKNN:12352": [
+    {
+      "rank": 1,
+      "stock_code": "22666",
+      "title": "RECIPE BOX PANTRY YELLOW DESIGN",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 2,
+      "stock_code": "22960",
+      "title": "JAM MAKING SET WITH JARS",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 3,
+      "stock_code": "22961",
+      "title": "JAM MAKING SET PRINTED",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 4,
+      "stock_code": "23307",
+      "title": "SET OF 60 PANTRY DESIGN CAKE CASES",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 5,
+      "stock_code": "22966",
+      "title": "GINGERBREAD MAN COOKIE CUTTER",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 6,
+      "stock_code": "22907",
+      "title": "PACK OF 20 NAPKINS PANTRY DESIGN",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 7,
+      "stock_code": "22969",
+      "title": "HOMEMADE JAM SCENTED CANDLES",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 8,
+      "stock_code": "22699",
+      "title": "ROSES REGENCY TEACUP AND SAUCER",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 9,
+      "stock_code": "47566",
+      "title": "PARTY BUNTING",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 10,
+      "stock_code": "22697",
+      "title": "GREEN REGENCY TEACUP AND SAUCER",
+      "relevant_in_test": false
+    }
+  ],
+  "ItemKNN:12358": [
+    {
+      "rank": 1,
+      "stock_code": "85014B",
+      "title": "RED RETROSPOT UMBRELLA",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 2,
+      "stock_code": "85014A",
+      "title": "BLACK/BLUE POLKADOT UMBRELLA",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 3,
+      "stock_code": "37446",
+      "title": "MINI CAKE STAND WITH HANGING CAKES",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 4,
+      "stock_code": "37448",
+      "title": "CERAMIC CAKE DESIGN SPOTTED MUG",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 5,
+      "stock_code": "21231",
+      "title": "SWEETHEART CERAMIC TRINKET BOX",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 6,
+      "stock_code": "22649",
+      "title": "STRAWBERRY FAIRY CAKE TEAPOT",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 7,
+      "stock_code": "37450",
+      "title": "CERAMIC CAKE BOWL + HANGING CAKES",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 8,
+      "stock_code": "22055",
+      "title": "MINI CAKE STAND  HANGING STRAWBERY",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 9,
+      "stock_code": "22057",
+      "title": "CERAMIC PLATE STRAWBERRY DESIGN",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 10,
+      "stock_code": "22061",
+      "title": "LARGE CAKE STAND  HANGING STRAWBERY",
+      "relevant_in_test": false
+    }
+  ],
+  "iALS:12347": [
+    {
+      "rank": 1,
+      "stock_code": "84380",
+      "title": "SET OF 3 BUTTERFLY COOKIE CUTTERS",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 2,
+      "stock_code": "84378",
+      "title": "SET OF 3 HEART COOKIE CUTTERS",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 3,
+      "stock_code": "22964",
+      "title": "3 PIECE SPACEBOY COOKIE CUTTER SET",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 4,
+      "stock_code": "21977",
+      "title": "PACK OF 60 PINK PAISLEY CAKE CASES",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 5,
+      "stock_code": "22966",
+      "title": "GINGERBREAD MAN COOKIE CUTTER",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 6,
+      "stock_code": "23348",
+      "title": "CHILDRENS TOY COOKING UTENSIL SET",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 7,
+      "stock_code": "84988",
+      "title": "SET OF 72 PINK HEART PAPER DOILIES",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 8,
+      "stock_code": "84832",
+      "title": "ZINC WILLIE WINKIE  CANDLE STICK",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 9,
+      "stock_code": "84375",
+      "title": "SET OF 20 KIDS COOKIE CUTTERS",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 10,
+      "stock_code": "22965",
+      "title": "3 TRADITIONAL BISCUIT CUTTERS  SET",
+      "relevant_in_test": false
+    }
+  ],
+  "iALS:12352": [
+    {
+      "rank": 1,
+      "stock_code": "22969",
+      "title": "HOMEMADE JAM SCENTED CANDLES",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 2,
+      "stock_code": "22666",
+      "title": "RECIPE BOX PANTRY YELLOW DESIGN",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 3,
+      "stock_code": "22960",
+      "title": "JAM MAKING SET WITH JARS",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 4,
+      "stock_code": "21231",
+      "title": "SWEETHEART CERAMIC TRINKET BOX",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 5,
+      "stock_code": "21116",
+      "title": "OWL DOORSTOP",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 6,
+      "stock_code": "22077",
+      "title": "6 RIBBONS RUSTIC CHARM",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 7,
+      "stock_code": "22766",
+      "title": "PHOTO FRAME CORNICE",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 8,
+      "stock_code": "21889",
+      "title": "WOODEN BOX OF DOMINOES",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 9,
+      "stock_code": "22644",
+      "title": "CERAMIC CHERRY CAKE MONEY BANK",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 10,
+      "stock_code": "47566",
+      "title": "PARTY BUNTING",
+      "relevant_in_test": false
+    }
+  ],
+  "iALS:12358": [
+    {
+      "rank": 1,
+      "stock_code": "85014B",
+      "title": "RED RETROSPOT UMBRELLA",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 2,
+      "stock_code": "21231",
+      "title": "SWEETHEART CERAMIC TRINKET BOX",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 3,
+      "stock_code": "85014A",
+      "title": "BLACK/BLUE POLKADOT UMBRELLA",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 4,
+      "stock_code": "37446",
+      "title": "MINI CAKE STAND WITH HANGING CAKES",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 5,
+      "stock_code": "22646",
+      "title": "CERAMIC STRAWBERRY CAKE MONEY BANK",
+      "relevant_in_test": true
+    },
+    {
+      "rank": 6,
+      "stock_code": "22649",
+      "title": "STRAWBERRY FAIRY CAKE TEAPOT",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 7,
+      "stock_code": "22645",
+      "title": "CERAMIC HEART FAIRY CAKE MONEY BANK",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 8,
+      "stock_code": "37448",
+      "title": "CERAMIC CAKE DESIGN SPOTTED MUG",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 9,
+      "stock_code": "22644",
+      "title": "CERAMIC CHERRY CAKE MONEY BANK",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 10,
+      "stock_code": "22055",
+      "title": "MINI CAKE STAND  HANGING STRAWBERY",
+      "relevant_in_test": false
+    }
+  ],
+  "EASE:12347": [
+    {
+      "rank": 1,
+      "stock_code": "21977",
+      "title": "PACK OF 60 PINK PAISLEY CAKE CASES",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 2,
+      "stock_code": "22730",
+      "title": "ALARM CLOCK BAKELIKE IVORY",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 3,
+      "stock_code": "23245",
+      "title": "SET OF 3 REGENCY CAKE TINS",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 4,
+      "stock_code": "21212",
+      "title": "PACK OF 72 RETROSPOT CAKE CASES",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 5,
+      "stock_code": "84997A",
+      "title": "CHILDRENS CUTLERY POLKADOT GREEN",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 6,
+      "stock_code": "22951",
+      "title": "60 CAKE CASES DOLLY GIRL DESIGN",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 7,
+      "stock_code": "21790",
+      "title": "VINTAGE SNAP CARDS",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 8,
+      "stock_code": "84378",
+      "title": "SET OF 3 HEART COOKIE CUTTERS",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 9,
+      "stock_code": "21213",
+      "title": "PACK OF 72 SKULL CAKE CASES",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 10,
+      "stock_code": "23148",
+      "title": "MINIATURE ANTIQUE ROSE HOOK IVORY",
+      "relevant_in_test": false
+    }
+  ],
+  "EASE:12352": [
+    {
+      "rank": 1,
+      "stock_code": "22666",
+      "title": "RECIPE BOX PANTRY YELLOW DESIGN",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 2,
+      "stock_code": "22960",
+      "title": "JAM MAKING SET WITH JARS",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 3,
+      "stock_code": "21231",
+      "title": "SWEETHEART CERAMIC TRINKET BOX",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 4,
+      "stock_code": "22969",
+      "title": "HOMEMADE JAM SCENTED CANDLES",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 5,
+      "stock_code": "22629",
+      "title": "SPACEBOY LUNCH BOX",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 6,
+      "stock_code": "22989",
+      "title": "SET 2 PANTRY DESIGN TEA TOWELS",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 7,
+      "stock_code": "22845",
+      "title": "VINTAGE CREAM CAT FOOD CONTAINER",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 8,
+      "stock_code": "85123A",
+      "title": "WHITE HANGING HEART T-LIGHT HOLDER",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 9,
+      "stock_code": "22427",
+      "title": "ENAMEL FLOWER JUG CREAM",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 10,
+      "stock_code": "22625",
+      "title": "RED KITCHEN SCALES",
+      "relevant_in_test": false
+    }
+  ],
+  "EASE:12358": [
+    {
+      "rank": 1,
+      "stock_code": "21231",
+      "title": "SWEETHEART CERAMIC TRINKET BOX",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 2,
+      "stock_code": "85014B",
+      "title": "RED RETROSPOT UMBRELLA",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 3,
+      "stock_code": "37446",
+      "title": "MINI CAKE STAND WITH HANGING CAKES",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 4,
+      "stock_code": "85014A",
+      "title": "BLACK/BLUE POLKADOT UMBRELLA",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 5,
+      "stock_code": "37448",
+      "title": "CERAMIC CAKE DESIGN SPOTTED MUG",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 6,
+      "stock_code": "22649",
+      "title": "STRAWBERRY FAIRY CAKE TEAPOT",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 7,
+      "stock_code": "22055",
+      "title": "MINI CAKE STAND  HANGING STRAWBERY",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 8,
+      "stock_code": "37450",
+      "title": "CERAMIC CAKE BOWL + HANGING CAKES",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 9,
+      "stock_code": "22646",
+      "title": "CERAMIC STRAWBERRY CAKE MONEY BANK",
+      "relevant_in_test": true
+    },
+    {
+      "rank": 10,
+      "stock_code": "22061",
+      "title": "LARGE CAKE STAND  HANGING STRAWBERY",
+      "relevant_in_test": false
+    }
+  ],
+  "FM:12347": [
+    {
+      "rank": 1,
+      "stock_code": "23245",
+      "title": "SET OF 3 REGENCY CAKE TINS",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 2,
+      "stock_code": "22467",
+      "title": "GUMBALL COAT RACK",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 3,
+      "stock_code": "21673",
+      "title": "WHITE SPOT BLUE CERAMIC DRAWER KNOB",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 4,
+      "stock_code": "22556",
+      "title": "PLASTERS IN TIN CIRCUS PARADE",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 5,
+      "stock_code": "22384",
+      "title": "LUNCH BAG PINK POLKADOT",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 6,
+      "stock_code": "22629",
+      "title": "SPACEBOY LUNCH BOX",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 7,
+      "stock_code": "51014L",
+      "title": "FEATHER PEN,LIGHT PINK",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 8,
+      "stock_code": "22383",
+      "title": "LUNCH BAG SUKI DESIGN",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 9,
+      "stock_code": "84380",
+      "title": "SET OF 3 BUTTERFLY COOKIE CUTTERS",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 10,
+      "stock_code": "23240",
+      "title": "SET OF 4 KNICK KNACK TINS DOILY",
+      "relevant_in_test": false
+    }
+  ],
+  "FM:12352": [
+    {
+      "rank": 1,
+      "stock_code": "22666",
+      "title": "RECIPE BOX PANTRY YELLOW DESIGN",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 2,
+      "stock_code": "22960",
+      "title": "JAM MAKING SET WITH JARS",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 3,
+      "stock_code": "22699",
+      "title": "ROSES REGENCY TEACUP AND SAUCER",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 4,
+      "stock_code": "22697",
+      "title": "GREEN REGENCY TEACUP AND SAUCER",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 5,
+      "stock_code": "22776",
+      "title": "SWEETHEART 3 TIER CAKE STAND",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 6,
+      "stock_code": "22457",
+      "title": "NATURAL SLATE HEART CHALKBOARD",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 7,
+      "stock_code": "22139",
+      "title": "RETROSPOT TEA SET CERAMIC 11 PC",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 8,
+      "stock_code": "47566",
+      "title": "PARTY BUNTING",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 9,
+      "stock_code": "23108",
+      "title": "SET OF 10 LED DOLLY LIGHTS",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 10,
+      "stock_code": "22969",
+      "title": "HOMEMADE JAM SCENTED CANDLES",
+      "relevant_in_test": false
+    }
+  ],
+  "FM:12358": [
+    {
+      "rank": 1,
+      "stock_code": "85014A",
+      "title": "BLACK/BLUE POLKADOT UMBRELLA",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 2,
+      "stock_code": "22423",
+      "title": "REGENCY CAKESTAND 3 TIER",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 3,
+      "stock_code": "22139",
+      "title": "RETROSPOT TEA SET CERAMIC 11 PC",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 4,
+      "stock_code": "22845",
+      "title": "VINTAGE CREAM CAT FOOD CONTAINER",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 5,
+      "stock_code": "22646",
+      "title": "CERAMIC STRAWBERRY CAKE MONEY BANK",
+      "relevant_in_test": true
+    },
+    {
+      "rank": 6,
+      "stock_code": "21231",
+      "title": "SWEETHEART CERAMIC TRINKET BOX",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 7,
+      "stock_code": "22617",
+      "title": "BAKING SET SPACEBOY DESIGN",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 8,
+      "stock_code": "47591D",
+      "title": "PINK FAIRY CAKE CHILDRENS APRON",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 9,
+      "stock_code": "22844",
+      "title": "VINTAGE CREAM DOG FOOD CONTAINER",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 10,
+      "stock_code": "21673",
+      "title": "WHITE SPOT BLUE CERAMIC DRAWER KNOB",
+      "relevant_in_test": false
+    }
+  ],
+  "CustomALS:12347": [
+    {
+      "rank": 1,
+      "stock_code": "22109",
+      "title": "FULL ENGLISH BREAKFAST PLATE",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 2,
+      "stock_code": "22966",
+      "title": "GINGERBREAD MAN COOKIE CUTTER",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 3,
+      "stock_code": "21790",
+      "title": "VINTAGE SNAP CARDS",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 4,
+      "stock_code": "23309",
+      "title": "SET OF 60 I LOVE LONDON CAKE CASES",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 5,
+      "stock_code": "22730",
+      "title": "ALARM CLOCK BAKELIKE IVORY",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 6,
+      "stock_code": "21212",
+      "title": "PACK OF 72 RETROSPOT CAKE CASES",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 7,
+      "stock_code": "22197",
+      "title": "POPCORN HOLDER",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 8,
+      "stock_code": "21977",
+      "title": "PACK OF 60 PINK PAISLEY CAKE CASES",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 9,
+      "stock_code": "21034",
+      "title": "REX CASH+CARRY JUMBO SHOPPER",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 10,
+      "stock_code": "22560",
+      "title": "TRADITIONAL MODELLING CLAY",
+      "relevant_in_test": false
+    }
+  ],
+  "CustomALS:12352": [
+    {
+      "rank": 1,
+      "stock_code": "22457",
+      "title": "NATURAL SLATE HEART CHALKBOARD",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 2,
+      "stock_code": "22969",
+      "title": "HOMEMADE JAM SCENTED CANDLES",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 3,
+      "stock_code": "47566",
+      "title": "PARTY BUNTING",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 4,
+      "stock_code": "22666",
+      "title": "RECIPE BOX PANTRY YELLOW DESIGN",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 5,
+      "stock_code": "22960",
+      "title": "JAM MAKING SET WITH JARS",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 6,
+      "stock_code": "22139",
+      "title": "RETROSPOT TEA SET CERAMIC 11 PC",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 7,
+      "stock_code": "22978",
+      "title": "PANTRY ROLLING PIN",
+      "relevant_in_test": true
+    },
+    {
+      "rank": 8,
+      "stock_code": "22178",
+      "title": "VICTORIAN GLASS HANGING T-LIGHT",
+      "relevant_in_test": true
+    },
+    {
+      "rank": 9,
+      "stock_code": "23108",
+      "title": "SET OF 10 LED DOLLY LIGHTS",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 10,
+      "stock_code": "21116",
+      "title": "OWL DOORSTOP",
+      "relevant_in_test": false
+    }
+  ],
+  "CustomALS:12358": [
+    {
+      "rank": 1,
+      "stock_code": "22646",
+      "title": "CERAMIC STRAWBERRY CAKE MONEY BANK",
+      "relevant_in_test": true
+    },
+    {
+      "rank": 2,
+      "stock_code": "21231",
+      "title": "SWEETHEART CERAMIC TRINKET BOX",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 3,
+      "stock_code": "85014B",
+      "title": "RED RETROSPOT UMBRELLA",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 4,
+      "stock_code": "37446",
+      "title": "MINI CAKE STAND WITH HANGING CAKES",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 5,
+      "stock_code": "37448",
+      "title": "CERAMIC CAKE DESIGN SPOTTED MUG",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 6,
+      "stock_code": "85014A",
+      "title": "BLACK/BLUE POLKADOT UMBRELLA",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 7,
+      "stock_code": "37450",
+      "title": "CERAMIC CAKE BOWL + HANGING CAKES",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 8,
+      "stock_code": "22645",
+      "title": "CERAMIC HEART FAIRY CAKE MONEY BANK",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 9,
+      "stock_code": "22061",
+      "title": "LARGE CAKE STAND  HANGING STRAWBERY",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 10,
+      "stock_code": "22649",
+      "title": "STRAWBERRY FAIRY CAKE TEAPOT",
+      "relevant_in_test": false
+    }
+  ],
+  "FM_ID_only:12347": [
+    {
+      "rank": 1,
+      "stock_code": "22197",
+      "title": "POPCORN HOLDER",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 2,
+      "stock_code": "22467",
+      "title": "GUMBALL COAT RACK",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 3,
+      "stock_code": "22993",
+      "title": "SET OF 4 PANTRY JELLY MOULDS",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 4,
+      "stock_code": "22629",
+      "title": "SPACEBOY LUNCH BOX",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 5,
+      "stock_code": "22630",
+      "title": "DOLLY GIRL LUNCH BOX",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 6,
+      "stock_code": "21672",
+      "title": "WHITE SPOT RED CERAMIC DRAWER KNOB",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 7,
+      "stock_code": "21212",
+      "title": "PACK OF 72 RETROSPOT CAKE CASES",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 8,
+      "stock_code": "22720",
+      "title": "SET OF 3 CAKE TINS PANTRY DESIGN",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 9,
+      "stock_code": "22554",
+      "title": "PLASTERS IN TIN WOODLAND ANIMALS",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 10,
+      "stock_code": "21670",
+      "title": "BLUE SPOT CERAMIC DRAWER KNOB",
+      "relevant_in_test": false
+    }
+  ],
+  "FM_ID_only:12352": [
+    {
+      "rank": 1,
+      "stock_code": "22960",
+      "title": "JAM MAKING SET WITH JARS",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 2,
+      "stock_code": "22666",
+      "title": "RECIPE BOX PANTRY YELLOW DESIGN",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 3,
+      "stock_code": "85123A",
+      "title": "WHITE HANGING HEART T-LIGHT HOLDER",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 4,
+      "stock_code": "21212",
+      "title": "PACK OF 72 RETROSPOT CAKE CASES",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 5,
+      "stock_code": "22699",
+      "title": "ROSES REGENCY TEACUP AND SAUCER",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 6,
+      "stock_code": "22969",
+      "title": "HOMEMADE JAM SCENTED CANDLES",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 7,
+      "stock_code": "22139",
+      "title": "RETROSPOT TEA SET CERAMIC 11 PC",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 8,
+      "stock_code": "47566",
+      "title": "PARTY BUNTING",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 9,
+      "stock_code": "22697",
+      "title": "GREEN REGENCY TEACUP AND SAUCER",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 10,
+      "stock_code": "21843",
+      "title": "RED RETROSPOT CAKE STAND",
+      "relevant_in_test": false
+    }
+  ],
+  "FM_ID_only:12358": [
+    {
+      "rank": 1,
+      "stock_code": "22423",
+      "title": "REGENCY CAKESTAND 3 TIER",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 2,
+      "stock_code": "85123A",
+      "title": "WHITE HANGING HEART T-LIGHT HOLDER",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 3,
+      "stock_code": "47566",
+      "title": "PARTY BUNTING",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 4,
+      "stock_code": "21231",
+      "title": "SWEETHEART CERAMIC TRINKET BOX",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 5,
+      "stock_code": "22969",
+      "title": "HOMEMADE JAM SCENTED CANDLES",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 6,
+      "stock_code": "72741",
+      "title": "GRAND CHOCOLATECANDLE",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 7,
+      "stock_code": "22469",
+      "title": "HEART OF WICKER SMALL",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 8,
+      "stock_code": "22776",
+      "title": "SWEETHEART 3 TIER CAKE STAND",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 9,
+      "stock_code": "22139",
+      "title": "RETROSPOT TEA SET CERAMIC 11 PC",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 10,
+      "stock_code": "22111",
+      "title": "SCOTTIE DOG HOT WATER BOTTLE",
+      "relevant_in_test": false
+    }
+  ],
+  "CustomALS_matched:12347": [
+    {
+      "rank": 1,
+      "stock_code": "22109",
+      "title": "FULL ENGLISH BREAKFAST PLATE",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 2,
+      "stock_code": "22966",
+      "title": "GINGERBREAD MAN COOKIE CUTTER",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 3,
+      "stock_code": "21790",
+      "title": "VINTAGE SNAP CARDS",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 4,
+      "stock_code": "23309",
+      "title": "SET OF 60 I LOVE LONDON CAKE CASES",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 5,
+      "stock_code": "22730",
+      "title": "ALARM CLOCK BAKELIKE IVORY",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 6,
+      "stock_code": "21212",
+      "title": "PACK OF 72 RETROSPOT CAKE CASES",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 7,
+      "stock_code": "22197",
+      "title": "POPCORN HOLDER",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 8,
+      "stock_code": "21977",
+      "title": "PACK OF 60 PINK PAISLEY CAKE CASES",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 9,
+      "stock_code": "21034",
+      "title": "REX CASH+CARRY JUMBO SHOPPER",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 10,
+      "stock_code": "22560",
+      "title": "TRADITIONAL MODELLING CLAY",
+      "relevant_in_test": false
+    }
+  ],
+  "CustomALS_matched:12352": [
+    {
+      "rank": 1,
+      "stock_code": "22457",
+      "title": "NATURAL SLATE HEART CHALKBOARD",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 2,
+      "stock_code": "22969",
+      "title": "HOMEMADE JAM SCENTED CANDLES",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 3,
+      "stock_code": "47566",
+      "title": "PARTY BUNTING",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 4,
+      "stock_code": "22666",
+      "title": "RECIPE BOX PANTRY YELLOW DESIGN",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 5,
+      "stock_code": "22960",
+      "title": "JAM MAKING SET WITH JARS",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 6,
+      "stock_code": "22139",
+      "title": "RETROSPOT TEA SET CERAMIC 11 PC",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 7,
+      "stock_code": "22978",
+      "title": "PANTRY ROLLING PIN",
+      "relevant_in_test": true
+    },
+    {
+      "rank": 8,
+      "stock_code": "22178",
+      "title": "VICTORIAN GLASS HANGING T-LIGHT",
+      "relevant_in_test": true
+    },
+    {
+      "rank": 9,
+      "stock_code": "23108",
+      "title": "SET OF 10 LED DOLLY LIGHTS",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 10,
+      "stock_code": "21116",
+      "title": "OWL DOORSTOP",
+      "relevant_in_test": false
+    }
+  ],
+  "CustomALS_matched:12358": [
+    {
+      "rank": 1,
+      "stock_code": "22646",
+      "title": "CERAMIC STRAWBERRY CAKE MONEY BANK",
+      "relevant_in_test": true
+    },
+    {
+      "rank": 2,
+      "stock_code": "21231",
+      "title": "SWEETHEART CERAMIC TRINKET BOX",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 3,
+      "stock_code": "85014B",
+      "title": "RED RETROSPOT UMBRELLA",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 4,
+      "stock_code": "37446",
+      "title": "MINI CAKE STAND WITH HANGING CAKES",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 5,
+      "stock_code": "37448",
+      "title": "CERAMIC CAKE DESIGN SPOTTED MUG",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 6,
+      "stock_code": "85014A",
+      "title": "BLACK/BLUE POLKADOT UMBRELLA",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 7,
+      "stock_code": "37450",
+      "title": "CERAMIC CAKE BOWL + HANGING CAKES",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 8,
+      "stock_code": "22645",
+      "title": "CERAMIC HEART FAIRY CAKE MONEY BANK",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 9,
+      "stock_code": "22061",
+      "title": "LARGE CAKE STAND  HANGING STRAWBERY",
+      "relevant_in_test": false
+    },
+    {
+      "rank": 10,
+      "stock_code": "22649",
+      "title": "STRAWBERRY FAIRY CAKE TEAPOT",
+      "relevant_in_test": false
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "raw_rows": 541909,
+  "clean_rows": 391150,
+  "users": 4334,
+  "items": 3659,
+  "unique_user_item_pairs": 266221,
+  "sparsity": 0.9832123079515297,
+  "source": "https://archive.ics.uci.edu/dataset/352/online+retail",
+  "download": "https://archive.ics.uci.edu/static/public/352/online+retail.zip",
+  "sha256": "f5385cbb54bbebf7196389109c6b0621faab0c304e3702548165e71c84aede8b"
+}

@@ -1,0 +1,13 @@
+{
+  "heldout_rows": 79902,
+  "heldout_users": 1904,
+  "heldout_unique_pairs": 67524,
+  "cold_user_pairs": 11888,
+  "cold_item_pairs": 733,
+  "cold_user_or_item_pairs": 12541,
+  "seen_pairs_excluded": 22183,
+  "evaluated_users": 1440,
+  "evaluated_relevant_pairs": 32800,
+  "users_with_fewer_than_k_candidates": 0,
+  "catalog_items": 3607
+}

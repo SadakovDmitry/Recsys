@@ -1,0 +1,13 @@
+{
+  "countries": 37,
+  "price_bins": 5,
+  "title_vocabulary": 512,
+  "title_words_max": 6,
+  "price_log_boundaries": [
+    0.6151856390902335,
+    0.8960880245566356,
+    1.2669476034873244,
+    1.7316555451583497
+  ],
+  "fitted_before": "2011-11-01 00:00:00"
+}
